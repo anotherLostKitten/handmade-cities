@@ -2,10 +2,10 @@ theodore peters
 
 mohammed uddin's team but without mohammed uddin in it
 
-raytracing
+phong shading
 
 textures
 
-multiple lights (just need to add mdl command to add light to light list, already set up light function to run through them)
+multiple lights
 
-mesh file (already mostly have code for this)
+mesh file
