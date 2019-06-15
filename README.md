@@ -6,6 +6,4 @@ phong shading
 
 textures
 
-multiple lights
-
 mesh file
